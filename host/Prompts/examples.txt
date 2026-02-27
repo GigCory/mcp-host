@@ -1,0 +1,5 @@
+Example user queries:
+- "What's the weather in Tokyo?"
+- "How's the weather in New York?"
+- "Is it cold in London?"
+- "What's the temperature at latitude 35.6895, longitude 139.6917?"
